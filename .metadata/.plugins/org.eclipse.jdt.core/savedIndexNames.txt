@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Sushant\Trading\Own Code downloader\NSE Data downloader\Workspace-BC_CONSOLID\DataDownloader\.metadata\.plugins\org.eclipse.jdt.core

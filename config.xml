@@ -1,0 +1,177 @@
+<settings>
+  <download>
+    <index>
+      <checkboxes>
+        <checkbox>
+          <name>NIFTY</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>NIFTY JUNIOR</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>DEFTY</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX 500</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX MIDCAP</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX IT</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>BANK NIFTY</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>MIDCAP 50</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>ESG INDIA IDX</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>SHARIAH</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>500 SHARIAH</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX INFRA</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX REALTY</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX ENERGY</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX MNC</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX PHARMA</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX PSE</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX PSU BANK</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX SERVICE</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX FMCG</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>CNX 100</name>
+          <value>true</value>
+        </checkbox>
+      </checkboxes>
+    </index>
+    <equity>
+      <checkboxes>
+        <checkbox>
+          <name>Market Activity Report</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>New High or Low</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>Top 25 securities by Trading Values</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>Top 10 Gainers &amp; Loosers</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>Equity Bhavcopy</name>
+          <value>true</value>
+        </checkbox>
+      </checkboxes>
+      <directory>C:\Users\sushant.pawar\Desktop\Data</directory>
+    </equity>
+    <futures>
+      <checkboxes>
+        <checkbox>
+          <name>Top 10 future contracts</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>Futures Bhavcopy</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>Add (-I) as prefix</name>
+          <value>false</value>
+        </checkbox>
+      </checkboxes>
+      <directory>C:\Users\sushant.pawar\Desktop\Data</directory>
+    </futures>
+    <currencyfutures>
+      <checkboxes>
+        <checkbox>
+          <name>Currency Futures Bhavcopy</name>
+          <value>true</value>
+        </checkbox>
+      </checkboxes>
+      <directory>C:\Users\sushant.pawar\Desktop\Data</directory>
+    </currencyfutures>
+    <options>
+      <checkboxes>
+        <checkbox>
+          <name>Options Bhavcopy</name>
+          <value>true</value>
+        </checkbox>
+        <checkbox>
+          <name>Top 10 Options contracts</name>
+          <value>false</value>
+        </checkbox>
+        <checkbox>
+          <name>Only NF-BNF</name>
+          <value>true</value>
+        </checkbox>
+      </checkboxes>
+      <directory>C:\Users\sushant.pawar\Desktop\Data</directory>
+    </options>
+  </download>
+  <others>
+    <checkboxes>
+      <checkbox>
+        <name>Skip Weekends</name>
+        <value>true</value>
+      </checkbox>
+      <checkbox>
+        <name>Enable Logging</name>
+        <value>false</value>
+      </checkbox>
+      <checkbox>
+        <name>Create consolidated Bhavcopy</name>
+        <value>true</value>
+      </checkbox>
+    </checkboxes>
+    <directory>C:\Documents and Settings\Admin\Desktop\DD\DataDownloader\Eod</directory>
+  </others>
+</settings>

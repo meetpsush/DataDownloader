@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Feb 08 14:28:41 IST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-014b-6869-8809-00000449c020 
+on database directory C:\Sushant\Trading\EODDownloader_090115\nsedb  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Sushant/Trading/EODDownloader_090115/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=C:\Sushant\Trading\EODDownloader_090115
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
